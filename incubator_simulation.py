@@ -1,7 +1,5 @@
 # streamlit_incubator_simulator.py
 # Incubator Simulator (Streamlit)
-# Not for clinical use. Demo / educational only.
-
 import streamlit as st
 import numpy as np
 import pandas as pd
